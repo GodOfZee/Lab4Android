@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_xsmall">4.dp</dimen>
+    <dimen name="padding_small">8.dp</dimen>
+    <dimen name="padding_medium">16.dp</dimen>
+    <dimen name="padding_large">24.dp</dimen>
+    <dimen name="padding_xlarge">32.dp</dimen>
+
+    <dimen name="spacer_small">8.dp</dimen>
+    <dimen name="spacer_medium">16.dp</dimen>
+    <dimen name="spacer_large">24.dp</dimen>
+
+    <dimen name="drawer_width">280.dp</dimen>
+
+    <dimen name="icon_small">16.dp</dimen>
+    <dimen name="icon_large">40.dp</dimen>
+
+    <dimen name="card_small">80.dp</dimen>
+
+
+</resources>

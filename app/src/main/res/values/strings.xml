@@ -1,3 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab4Android</string>
+    <!-- Utility -->
+    <string name="app_name" translatable="false">CityApp</string>
+    <string name="version">Version</string>
+    <string name="vers" translatable="false">0.5.2</string>
+    <string name="home">Home</string>
+    <string name="coffee">Coffee</string>
+    <string name="parks">Parks</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="menu">Menu</string>
+    <string name="name_test">Test name</string>
+    <string name="description_test">Test description</string>
+    <string name="address_test">Test address</string>
+    <string name="address">Address</string>
+    <string name="details">Details</string>
+    <string name="museums">Museums</string>
+    <string name="categories">Categories</string>
+    <string name="shopping">Shops</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="favorites">Favorites</string>
+    <string name="map">Map</string>
+    <string name="no_recommendations">No recommendations</string>
+    <string name="recommendation_not_found">Recommendation not found</string>
+    <string name="welcome_to_izhevsk">Welcome to Izhevsk</string>
+    <string name="popular_places">Popular places</string>
+    <string name="app_info">The \"CityApp\" will help you find the best places to visit in the capital of Udmurtia. Here you\'ll find recommendations for coffee shops, restaurants, parks, museums, and shopping centers.</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <!-- Coffee shops -->
+    <string name="coffee_1_name">Coffee Shop "Utro"</string>
+    <string name="coffee_1_address">Pushkinskaya St., 123</string>
+    <string name="coffee_1_description">A cozy coffee shop with signature drinks and fresh pastries.</string>
+
+    <string name="coffee_2_name">Coffee Lab</string>
+    <string name="coffee_2_address">Lenina St., 45</string>
+    <string name="coffee_2_description">Specialty coffee and desserts from the pastry chef.</string>
+
+    <!-- Parks -->
+    <string name="park_1_name">Kirov Park</string>
+    <string name="park_1_address">St. Kirov St., 8</string>
+    <string name="park_1_description">Central Park of Culture and Leisure with attractions.</string>
+
+    <string name="park_2_name">Udmurtia Zoo</string>
+    <string name="park_2_address">Kirov St., 10</string>
+    <string name="park_2_description">Udmurtia State Zoological Park.</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_1_name">Izhevsk Restaurant</string>
+    <string name="restaurant_1_address"> Sovetskaya, 22</string>
+    <string name="restaurant_1_description">Traditional Udmurt cuisine with a modern twist.</string>
+
+    <!-- Museums -->
+    <string name="museum_1_name">Kalashnikov Museum</string>
+    <string name="museum_1_address">Borodina St., 19</string>
+    <string name="museum_1_description">Small Arms Museum and Exhibition Complex.</string>
 </resources>
