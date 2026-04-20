@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Utility -->
+    <string name="home">Главная</string>
+    <string name="coffee">Кофейни</string>
+    <string name="parks">Парки</string>
+    <string name="restaurants">Рестораны</string>
+    <string name="menu">Меню</string>
+    <string name="name_test">Тестовое название</string>
+    <string name="description_test">Тестовое описание</string>
+    <string name="address_test">Тестовый адрес</string>
+    <string name="address">Адрес</string>
+    <string name="details">Детали</string>
+    <string name="museums">Музеи</string>
+    <string name="categories">Категории</string>
+    <string name="shopping">Магазины</string>
+    <string name="about">О приложении</string>
+    <string name="settings">Настройки</string>
+    <string name="favorites">Избранное</string>
+    <string name="map">Карта</string>
+    <string name="no_recommendations">Нет рекомендаций</string>
+    <string name="recommendation_not_found">Рекомендаций не найдено</string>
+    <string name="welcome_to_izhevsk">Добро пожаловать в Ижевск</string>
+    <string name="popular_places">Популярные места</string>
+    <string name="version">Версия</string>
+    <string name="app_info">Приложение «CityApp» поможет вам найти лучшие места для посещения в столице Удмуртии. Здесь вы найдете рекомендации по кофейням, ресторанам, паркам, музеям и торговым центрам.</string>
+    <string name="dark_theme">Тёмная тема</string>
+
+    <!-- Coffee shops -->
+    <string name="coffee_1_name">Кофейня "Утро"</string>
+    <string name="coffee_1_address">ул. Пушкинская, 123</string>
+    <string name="coffee_1_description">Уютная кофейня с авторскими напитками и свежей выпечкой.</string>
+
+    <string name="coffee_2_name">Coffee Lab</string>
+    <string name="coffee_2_address">ул. Ленина, 45</string>
+    <string name="coffee_2_description">Спешелти кофе и десерты от шеф-кондитера.</string>
+
+    <!-- Parks -->
+    <string name="park_1_name">Парк Кирова</string>
+    <string name="park_1_address">ул. Кирова, 8</string>
+    <string name="park_1_description">Центральный парк культуры и отдыха с аттракционами.</string>
+
+    <string name="park_2_name">Зоопарк Удмуртии</string>
+    <string name="park_2_address">ул. Кирова, 10</string>
+    <string name="park_2_description">Государственный зоологический парк Удмуртии.</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_1_name">Ресторан "Ижевск"</string>
+    <string name="restaurant_1_address">ул. Советская, 22</string>
+    <string name="restaurant_1_description">Традиционная удмуртская кухня в современном исполнении.</string>
+
+    <!-- Museums -->
+    <string name="museum_1_name">Музей Калашникова</string>
+    <string name="museum_1_address">ул. Бородина, 19</string>
+    <string name="museum_1_description">Музейно-выставочный комплекс стрелкового оружия.</string>
+</resources>
